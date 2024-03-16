@@ -1,2 +1,2 @@
-# Intoduction to Computer Science and Programming using python
+# Introduction to Computer Science and Programming using python
  
